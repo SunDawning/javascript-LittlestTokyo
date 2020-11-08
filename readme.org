@@ -1,0 +1,7 @@
+源项目：
+https://threejs.org/examples/webgl_animation_keyframes.html
+
+使用安卓谷歌浏览器将该网页放到桌面后，如果再打开：
+
+- 可全屏操作
+- 没有下拉刷新操作
