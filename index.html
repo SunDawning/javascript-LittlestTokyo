@@ -41,7 +41,7 @@
       dirLight.position.set( 5, 2, 8 );
       scene.add( dirLight );
       const dracoLoader = new DRACOLoader();
-      dracoLoader.setDecoderPath( '/' );
+      dracoLoader.setDecoderPath( './' );
       const loader = new GLTFLoader();
       loader.setDRACOLoader( dracoLoader );
       loader.load( 'LittlestTokyo.glb', function ( gltf ) {
